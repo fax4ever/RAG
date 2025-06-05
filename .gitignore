@@ -180,3 +180,6 @@ deploy/helm/namespace
 deploy/helm/secrets
 uv.lock
 .DS_Store
+
+# Ide specific
+.idea/*
